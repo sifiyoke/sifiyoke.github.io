@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               O Site da Talita
+title:               Talita Sara
 tagline:             '<3'
-description:         'tudo aqui é para a menina mais linda do mundo'
+description:         'Tudo aqui é para a menina mais linda do mundo'
 url:                 http://alpha-omega.github.io/
 baseurl:             
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              OmeGa
+  url:               https://github.com/alpha-omega
+#  email:             markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
