@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               O Site da Talita
 tagline:             '<3'
 description:         'tudo aqui é para a menina mais linda do mundo'
-url:                 http://alpha-omega.github.io
+url:                 http://alpha-omega.github.io/
 baseurl:             
 paginate:            5
 
