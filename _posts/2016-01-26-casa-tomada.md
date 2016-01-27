@@ -1,7 +1,7 @@
----
+———
 layout: post
-title: Casa Tomada - Julio Cortázar
----
+title: Casa Tomada — Julio Cortázar
+———
 
 Nos gustaba la casa porque aparte de espaciosa y antigua (hoy que las casas antiguas sucumben a la más ventajosa liquidación de sus materiales) guardaba los recuerdos de nuestros bisabuelos, el abuelo paterno, nuestros padres y toda la infancia.
 
@@ -17,21 +17,21 @@ Lo recordaré siempre con claridad porque fue simple y sin circunstancias inúti
 
 Fui a la cocina, calenté la pavita, y cuando estuve de vuelta con la bandeja del mate le dije a Irene:
 
--Tuve que cerrar la puerta del pasillo. Han tomado parte del fondo.
+—Tuve que cerrar la puerta del pasillo. Han tomado parte del fondo.
 
 Dejó caer el tejido y me miró con sus graves ojos cansados.
 
--¿Estás seguro?
+—¿Estás seguro?
 
 Asentí.
 
--Entonces -dijo recogiendo las agujas- tendremos que vivir en este lado.
+—Entonces —dijo recogiendo las agujas— tendremos que vivir en este lado.
 
 Yo cebaba el mate con mucho cuidado, pero ella tardó un rato en reanudar su labor. Me acuerdo que me tejía un chaleco gris; a mí me gustaba ese chaleco.
 
 Los primeros días nos pareció penoso porque ambos habíamos dejado en la parte tomada muchas cosas que queríamos. Mis libros de literatura francesa, por ejemplo, estaban todos en la biblioteca. Irene pensó en una botella de Hesperidina de muchos años. Con frecuencia (pero esto solamente sucedió los primeros días) cerrábamos algún cajón de las cómodas y nos mirábamos con tristeza.
 
--No está aquí.
+—No está aquí.
 
 Y era una cosa más de todo lo que habíamos perdido al otro lado de la casa.
 
@@ -39,7 +39,7 @@ Pero también tuvimos ventajas. La limpieza se simplificó tanto que aun levant�
 
 Irene estaba contenta porque le quedaba más tiempo para tejer. Yo andaba un poco perdido a causa de los libros, pero por no afligir a mi hermana me puse a revisar la colección de estampillas de papá, y eso me sirvió para matar el tiempo. Nos divertíamos mucho, cada uno en sus cosas, casi siempre reunidos en el dormitorio de Irene que era más cómodo. A veces Irene decía:
 
--Fijate este punto que se me ha ocurrido. ¿No da un dibujo de trébol?
+—Fijate este punto que se me ha ocurrido. ¿No da un dibujo de trébol?
 
 Un rato después era yo el que le ponía ante los ojos un cuadradito de papel para que viese el mérito de algún sello de Eupen y Malmédy. Estábamos bien, y poco a poco empezábamos a no pensar. Se puede vivir sin pensar.
 
@@ -51,11 +51,11 @@ Es casi repetir lo mismo salvo las consecuencias. De noche siento sed, y antes d
 
 No nos miramos siquiera. Apreté el brazo de Irene y la hice correr conmigo hasta la puerta cancel, sin volvernos hacia atrás. Los ruidos se oían más fuerte pero siempre sordos, a espaldas nuestras. Cerré de un golpe la cancel y nos quedamos en el zaguán. Ahora no se oía nada.
 
--Han tomado esta parte -dijo Irene. El tejido le colgaba de las manos y las hebras iban hasta la cancel y se perdían debajo. Cuando vio que los ovillos habían quedado del otro lado, soltó el tejido sin mirarlo.
+—Han tomado esta parte —dijo Irene. El tejido le colgaba de las manos y las hebras iban hasta la cancel y se perdían debajo. Cuando vio que los ovillos habían quedado del otro lado, soltó el tejido sin mirarlo.
 
--¿Tuviste tiempo de traer alguna cosa? -le pregunté inútilmente.
+—¿Tuviste tiempo de traer alguna cosa? —le pregunté inútilmente.
 
--No, nada.
+—No, nada.
 
 Estábamos con lo puesto. Me acordé de los quince mil pesos en el armario de mi dormitorio. Ya era tarde ahora.
 
