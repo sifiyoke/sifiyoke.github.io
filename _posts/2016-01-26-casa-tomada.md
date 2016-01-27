@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Casa Tomada — Julio Cortázar
+tags: [cortázar]
 ---
 
 Nos gustaba la casa porque aparte de espaciosa y antigua (hoy que las casas antiguas sucumben a la más ventajosa liquidación de sus materiales) guardaba los recuerdos de nuestros bisabuelos, el abuelo paterno, nuestros padres y toda la infancia.
