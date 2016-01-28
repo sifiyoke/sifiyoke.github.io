@@ -12,8 +12,6 @@ mientas la costura mezcla con el rezo,
 ve todas las tardes pasar en silencio 
 los seminaristas que van de paseo.
 
-<!--more-->
-
 Baja la cabeza, sin erguir el cuerpo, 
 marchan en dos filas pausados y austeros, 
 sin más nota alegre sobre el traje negro 
