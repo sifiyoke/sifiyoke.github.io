@@ -9,23 +9,23 @@ title: Eij Efshar – Rotem Cohen
 
 ### Verso
 
-**Rak otakh khipasti kol khayai**
+**Rak otaj jipasti kol jayai**
 
 Solo a ti te busqué toda la vida
 
-**Biladaikh livi dofek aval eineni khai**
+**Biladaij livi dofek aval eineni jai**
 
 Sin ti mi corazón late pero no estoy vivo
 
-**Ha'yamim arukim veha'zman boreakh**
+**Ha'yamim arukim veha'zman boreaj**
 
 Los días son largos y el tiempo se escapa
 
-**Nigmeru bi kokhot aval od tsoreakh "tishaari"**
+**Nigmeru bi kojot aval od tsoreaj tishaari**
 
-Se me acabaron las fuerzas pero aún grito "quédate"
+Se me acabaron las fuerzas pero aún grito «quédate»
 
-**Lo motse otakh, menase lehavin...**
+**Lo motse otaj, menase lehavin...**
 
 No te encuentro, intento comprender...
 
@@ -33,13 +33,13 @@ No te encuentro, intento comprender...
 
 ### Coro
 
-**Ekh efshar lishkoakh et ha'lev shelakh? Ekh ukhal likhiot mi'kan?**
+**Ej efshar lishkoaj et ha'lev shelaj? Ej ujal lijiot mi'kan?**
 
 ¿Cómo es posible olvidar a tu corazón? ¿Cómo podré vivir desde ahora?
 
-**Ekh efshar lishkoah et ha'kol shelakh omeret "mami, bo tokhal al ha'shulkhan"?**
+**Ej efshar lishkoah et ha'kol shelaj omeret mami, bo tojal al ha'shuljan?**
 
-¿Cómo es posible olvidar tu voz diciendo "cariño, ven a comer a la mesa"?
+¿Cómo es posible olvidar tu voz diciendo «cariño, ven a comer a la mesa»?
 
 **Ha'yom ani yodea she'at lo sheli**
 
@@ -53,22 +53,22 @@ Y tengo claro que eres para mí, dame también todo
 
 ### Verso
 
-**Rak otakh mekhapes shuv be'kumi**
+**Rak otaj mejapes shuv be'kumi**
 
 Solo a ti te busco cuando me levanto
 
-**Khse'halakht nishar keev gadol imi**
+**jse'halajt nishar keev gadol imi**
 
 Cuando te fuiste quedó un dolor grande conmigo 
 
-**Ha'yamim koavim rak ha'zman soleakh**
+**Ha'yamim koavim rak ha'zman soleaj**
 
 Los días duelen, solamente el tiempo perdona
 
-**Rak itakh ani af veha'kol od zoreakh, tishaari**
+**Rak itaj ani af veha'kol od zoreaj, tishaari**
 
 Solo contigo vuelo y todo brilla de nuevo, quédate
 
-**Lo motse otakh, lo motse oti**
+**Lo motse otaj, lo motse oti**
 
 No te encuentro a ti, no me encuentro a mí

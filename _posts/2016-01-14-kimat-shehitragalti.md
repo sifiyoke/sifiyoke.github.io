@@ -13,11 +13,11 @@ title: Kimat She'Hitragalti – Rotem Cohen
 
 Casi cuando ya me había acostumbrado a estar solo
 
-**Kimat sheha'mita sheli betukha she'ani khozer levad gam ha'laila**
+**Kimat sheha'mita sheli betuja she'ani jozer levad gam ha'laila**
 
 Casi cuando mi cama está segura de que regreso solo también esta noche 
 
-**Davka kshe'hetkhalti lehavin sheha'khayim hem lo miskhak yeladim**
+**Davka kshe'hetjalti lehavin sheha'jayim hem lo misjak yeladim**
 
 Justo cuando comencé a entender que la vida no es un juego de niños
 
@@ -29,11 +29,11 @@ De pronto me ocurrió
 
 Casi cuando me acostumbré a tomar café solo
 
-**Kimat sheha'shkhena kvar hitragla lehikanes mibli lidfok ukshe'ba la**
+**Kimat sheha'shjena kvar hitragla lehikanes mibli lidfok ukshe'ba la**
 
 Casi cuando la vecina ya se había acostumbrado a entrar sin tocar, y cuando ella quiere
 
-**Davka kshe'hetkhalti lehavin she'nekhmad li latset erom meha'miklakhat**
+**Davka kshe'hetjalti lehavin she'nejmad li latset erom meha'miklajat**
 
 Justo cuando empecé a comprender que me agrada salir desnudo de la ducha
 
@@ -45,7 +45,7 @@ De pronto ocurrió
 
 ### Coro
 
-**U'khvar yoter midai shanim khikiti biladaikh, lo yadati ma laasot kvar**
+**U'jvar yoter midai shanim jikiti biladaij, lo yadati ma laasot kvar**
 
 Y ya demasidos años esperé sin ti, ya no sabía qué hacer 
 
@@ -57,7 +57,7 @@ Ya demasiado tiempo
 
 Ya con todo el dolor solo supe que Dios me escuchó
 
-**Ve'shalakh otakh elai elai, alai, alai**
+**Ve'shalaj otaj elai elai, alai, alai**
 
 Y te mandó a ti para mí
 
@@ -65,7 +65,7 @@ Y te mandó a ti para mí
 
 ### Verso
 
-**Kimat she'hitragalti lejayekh meat**
+**Kimat she'hitragalti lejayej meat**
 
 Casi cuando me acostumbré a sonreír menos
 
@@ -73,7 +73,7 @@ Casi cuando me acostumbré a sonreír menos
 
 Casi cuando me acostumbré a hacer las cosas a mi tiempo y solo si me da la gana
 
-**Davka kshe'hetkhalti lehavin she'likhiot iti ze kmo likhiot be'yakhad**
+**Davka kshe'hetjalti lehavin she'lijiot iti ze kmo lijiot be'yajad**
 
 Justo cuando comencé a entender que vivir conmigo es como vivir «juntos»
 
@@ -81,15 +81,15 @@ Justo cuando comencé a entender que vivir conmigo es como vivir «juntos»
 
 De pronto me ocurrió
 
-**Kimat she'hitragalti lehakhin li mana akhat**
+**Kimat she'hitragalti lehajin li mana ajat**
 
 Casi cuando me acostumbré a preparame un solo plato
 
-**Kimat sheha'deagot sheli hayu al atidi ve'ekh likhiot im ha'pakhad**
+**Kimat sheha'deagot sheli hayu al atidi ve'ej lijiot im ha'pajad**
 
 Casi cuando mis preocupaciones eran acerca de mi futuro y cómo vivir con el miedo
 
-**Davka kshe'hetkhalti lehavin she'bnei adam hem lo yetsur shel yakhad**
+**Davka kshe'hetjalti lehavin she'bnei adam hem lo yetsur shel yajad**
 
 Justo cuando empecé a entender que los seres humanos no son una criatura de «juntos»
 
