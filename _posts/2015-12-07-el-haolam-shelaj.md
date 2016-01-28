@@ -14,7 +14,7 @@ Me levanté con nostalgia que duele y pensé: ¿con quién compartes alegrías?
 
 **Jashuv li lishmoa she'at tsojeket harbe ve'ohevet oti od pajot**
 
-Es importante para mí oír que te ríes mucho, y me quieres aún menos
+Es importante para mí oír que te ríes mucho, y que me quieres aún menos
 
 **Kamti im gaagua koev ve'hevanti ha'boker she'tov laj levad**
 
