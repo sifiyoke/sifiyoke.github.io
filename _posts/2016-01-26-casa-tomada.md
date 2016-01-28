@@ -64,4 +64,4 @@ Estábamos con lo puesto. Me acordé de los quince mil pesos en el armario de mi
 
 Como me quedaba el reloj pulsera, vi que eran las once de la noche. Rodeé con mi brazo la cintura de Irene (yo creo que ella estaba llorando) y salimos así a la calle. Antes de alejarnos tuve lástima, cerré bien la puerta de entrada y tiré la llave a la alcantarilla. No fuese que a algún pobre diablo se le ocurriera robar y se metiera en la casa, a esa hora y con la casa tomada.
 
-**FIN**
+FIN
