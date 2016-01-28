@@ -24,6 +24,8 @@ Me levanté con nostalgia que duele y entendí esta mañana que estás bien tú 
 
 Aprendo a dejarte ir a pesar de que es difícil para mí, te dejo ir para siempre
 
+<br />
+
 ### Coro
 
 **El ha'olam shelaj elav, ani lo yajol lijov otaj od paam**
@@ -42,6 +44,8 @@ Y de sus manos a tu mundo, hacia él, no puedo sufrir por ti otra vez
 
 Enconces vale la pena que entiendas que ya no estoy más, pero te mando únicamente felicidad 
 
+<br />
+
 ### Verso
 **Kamti im gaagua koev ve'hitpalalti yoter lo lirot et panaij**
 
@@ -58,6 +62,8 @@ Sí, yo quería tanto contarte que tengo un amigo que me quiere mucho[^fn-yam]
 **Hu doeg leharim li et ha'rosh u'masbir li sheha'lev ha'shavur hu mushlam**
 
 Él se preocupa de levantarme la cabeza y me explica que el corazón roto es perfecto
+
+<br />
 
 ### Final
 
