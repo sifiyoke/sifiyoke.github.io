@@ -88,3 +88,9 @@ vierten silenciosas lágrimas de hielo.
 
 Sola, vieja y triste, aún guarda el recuerdo 
 del seminarista de los ojos negros...
+
+---
+
+*Escuchar en YouTube*
+
+[![El seminarista de los ojos negros](http://img.youtube.com/vi/USJ15q31VxE/0.jpg)](http://www.youtube.com/watch?v=USJ15q31VxE)
