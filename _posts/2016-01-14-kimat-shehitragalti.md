@@ -75,7 +75,7 @@ Casi cuando me acostumbré a hacer las cosas a mi tiempo y solo si me da la gana
 
 **Davka kshe'hetkhalti lehavin she'likhiot iti ze kmo likhiot be'yakhad**
 
-Justo cuando comencé a entender que vivir conmigo es como vivir "juntos"
+Justo cuando comencé a entender que vivir conmigo es como vivir «juntos»
 
 **Pitom ze kara li**
 
@@ -91,7 +91,7 @@ Casi cuando mis preocupaciones eran acerca de mi futuro y cómo vivir con el mie
 
 **Davka kshe'hetkhalti lehavin she'bnei adam hem lo yetsur shel yakhad**
 
-Justo cuando empecé a entender que los seres humanos no son una criatura de "juntos"
+Justo cuando empecé a entender que los seres humanos no son una criatura de «juntos»
 
 **Pitom ze kara**
 
