@@ -49,7 +49,7 @@ Me levanté con nostalgia que duele y recé para no ver más tu cara
 
 **Ani sameaj she'yesh laj ejad she'doeg laj kamoni ve'somej rak alaij**
 
-Estoy contento de que tengas alguien que cuida de ti como yo y que confía solo en ti
+Estoy contento de que tengas alguien que cuida de ti como yo, y que confía solo en ti
 
 **Ken, ani ratsiti kol kaj lesaper laj she'yesh li javer she'ohev oti yam**
 
