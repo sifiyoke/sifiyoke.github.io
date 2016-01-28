@@ -3,6 +3,10 @@ layout: post
 title: El Ha'Olam Shelaj – Rotem Cohen
 ---
 
+[![hey mama - peer tasi](http://img.youtube.com/vi/hC8q4Gab_xM/0.jpg)](http://www.youtube.com/watch?v=hC8q4Gab_xM)
+
+<!--more-->
+
 ### Verso
 **Kamti im gaagua koev ve'jashavti im mi at joleket smajot?**
 
