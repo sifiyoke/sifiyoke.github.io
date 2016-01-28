@@ -11,5 +11,4 @@ FIN
 
 ---
 
-[![Continuidad de los parques](http://img.youtube.com/vi/R1Pdlab474/0.jpg)](https://www.youtube.com/watch?v=R1Pdlab474)
-
+[![Continuidad de los parques](http://img.youtube.com/vi/yR1Pdlab474/0.jpg)](https://www.youtube.com/watch?v=yR1Pdlab474)
