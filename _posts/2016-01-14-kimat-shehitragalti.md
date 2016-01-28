@@ -3,6 +3,10 @@ layout: post
 title: Kimat She'Hitragalti – Rotem Cohen
 ---
 
+[![Kimat She'Hitragalti - Rotem Cohen](http://img.youtube.com/vi/QTG7UsGhtLg/0.jpg)](http://www.youtube.com/watch?v=QTG7UsGhtLg)
+
+<!--more-->
+
 ### Verso
 
 **Kimat she'hitragalti kvar liyot levad**
