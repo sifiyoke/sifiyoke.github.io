@@ -22,4 +22,4 @@ author:
 version:             1.0.0
 
 # Excerpt Separator
-excerpt_separator: "<!--more-->"
+#excerpt_separator: "<!--more-->"
