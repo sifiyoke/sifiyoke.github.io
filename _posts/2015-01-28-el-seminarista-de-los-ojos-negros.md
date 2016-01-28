@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: El seminarista de los ojos negros - Miguel Ramos Carrión
+title: El seminarista de los ojos negros - Miguel Ramos Carrión
 ---
 
 Desde la ventana de un casucho viejo 

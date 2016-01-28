@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Casa Tomada – Julio Cortázar
+title: Casa tomada – Julio Cortázar
 tags: [cortázar]
 ---
 
