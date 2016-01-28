@@ -67,4 +67,4 @@ Me levanté con nostalgia que duele y entendí esta mañana que estás bien tú 
 
 ---
 
-[^fn-yam]: La palabra *yam* significa literalmente «mar», pero en lenguaje coloquial se utiliza como sinónimo de «mucho". Sería como decir «tengo un amigo que me quiere un mar».
+[^fn-yam]: La palabra *yam* significa literalmente «mar», pero en lenguaje coloquial se utiliza como sinónimo de «mucho». Sería como decir «tengo un amigo que me quiere un mar».
