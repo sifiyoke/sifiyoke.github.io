@@ -3,10 +3,10 @@ layout: post
 title: Ma She'Iye Iye – Hatikva 6
 ---
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/yrRPLBYiiEc" frameborder="0" allowfullscreen></iframe>
 
+<!--[![Ma She'Iye Iye - Hatikva 6](http://img.youtube.com/vi/Pig_CnUyVtc/0.jpg)](http://www.youtube.com/watch?v=Pig_CnUyVtc)-->
 
-[![Ma She'Iye Iye - Hatikva 6](http://img.youtube.com/vi/Pig_CnUyVtc/0.jpg)](http://www.youtube.com/watch?v=Pig_CnUyVtc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pig_CnUyVtc" frameborder="0" allowfullscreen></iframe>
 
 <!--more-->
 
