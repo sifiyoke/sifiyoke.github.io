@@ -7,7 +7,6 @@ title: Ma She'Iye Iye – Hatikva 6
 
 **Ani roe shuv et ha'rega, medamyen oto heitev**
 
-<!--more-->
 
 Eu vejo outra vez o momento, imagino-o propriamente
 
@@ -17,6 +16,7 @@ Respiro profundo até a alma
 
 **Soguer et ha'pratim ha'ajaronim shel ha'perek**
 
+<!--more-->
 Fecho os últimos detalhes do capítulo
 
 **Uba'ayin dima shel ha'regesh**
