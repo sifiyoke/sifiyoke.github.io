@@ -3,16 +3,11 @@ layout: post
 title: Ma She'Iye Iye – Hatikva 6
 ---
 
-
-<!--[![Ma She'Iye Iye - Hatikva 6](http://img.youtube.com/vi/Pig_CnUyVtc/0.jpg)](http://www.youtube.com/watch?v=Pig_CnUyVtc)-->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pig_CnUyVtc" frameborder="0" allowfullscreen></iframe>
-
-<!--more-->
-
 ### Verso
 
 **Ani roe shuv et ha'rega, medamyen oto heitev**
+
+<!--more-->
 
 Eu vejo outra vez o momento, imagino-o propriamente
 
@@ -119,3 +114,7 @@ O fogo que há em mim ascende, ascende alto
 **Ma she'iye iye**
 
 O que será, será
+
+riframe width="560" height="315" src="https://www.youtube.com/embed/Pig_CnUyVtc" frameborder="0" allowfullscreen></iframe>
+
+#### (Ver video)[https://www.youtube.com/embed/Pig_CnUyVtc]
