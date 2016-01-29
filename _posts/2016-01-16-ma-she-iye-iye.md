@@ -3,7 +3,7 @@ layout: post
 title: Ma She'Iye Iye – Hatikva 6
 ---
 
-### Verso
+## Verso
 
 **Ani roe shuv et ha'rega, medamyen oto heitev**
 
@@ -44,7 +44,7 @@ Enquanto todos a meu lado observam
 
 E a hora é boa, e em boa hora, eu saio com as esperanças a vencer
 
-### Coro
+## Coro
 
 **Ma she'iye iye, ein lanu yad be'ze. Ha'goral yistader im atsmo**
 
