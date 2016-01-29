@@ -14,9 +14,10 @@ Eu vejo outra vez o momento, imagino-o propriamente
 
 Respiro profundo até a alma
 
+<!--more-->
+
 **Soguer et ha'pratim ha'ajaronim shel ha'perek**
 
-<!--more-->
 Fecho os últimos detalhes do capítulo
 
 **Uba'ayin dima shel ha'regesh**
@@ -117,4 +118,4 @@ O que será, será
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pig_CnUyVtc" frameborder="0" allowfullscreen></iframe>
 
-#### (Ver video)[https://www.youtube.com/embed/Pig_CnUyVtc]
+(Ver video)[https://www.youtube.com/embed/Pig_CnUyVtc]
