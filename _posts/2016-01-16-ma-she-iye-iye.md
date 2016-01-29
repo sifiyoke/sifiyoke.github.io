@@ -44,8 +44,6 @@ Enquanto todos a meu lado observam
 
 E a hora é boa, e em boa hora, eu saio com as esperanças a vencer
 
-<br />
-
 ### Coro
 
 **Ma she'iye iye, ein lanu yad be'ze. Ha'goral yistader im atsmo**
@@ -55,8 +53,6 @@ O que será será, não temos mão nisso. O destino resolverá-se sozinho
 **Anajnu kan kedei lijiot im ze ve'im kol ma she'ba ve'yavo**
 
 Nós estamos aqui para viver com isso, e com todo o que vem e vendrá
-
-<br />
 
 ### Verso
 
@@ -96,8 +92,6 @@ Não há portão nem cadeado trancado no caminho ao céu
 
 E a hora é boa, e em boa hora, eu saio com as esperanças a vencer
 
-<br />
-
 ### Final
 
 **Ha'esh she'bi ola, ola gavoa**
@@ -115,7 +109,5 @@ O fogo que há em mim ascende, ascende alto
 **Ma she'iye iye**
 
 O que será, será
-
-<br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pig_CnUyVtc" frameborder="0" allowfullscreen></iframe>
