@@ -44,7 +44,7 @@ Enquanto todos a meu lado observam
 
 E a hora é boa, e em boa hora, eu saio com as esperanças a vencer
 
-## Coro
+## Refrão
 
 **Ma she'iye iye, ein lanu yad be'ze. Ha'goral yistader im atsmo**
 
@@ -54,7 +54,7 @@ O que será será, não temos mão nisso. O destino resolverá-se sozinho
 
 Nós estamos aqui para viver com isso, e com todo o que vem e vendrá
 
-### Verso
+## Verso
 
 **Yesh jalomot she'notnim lanu lehargish karov**
 
@@ -92,7 +92,7 @@ Não há portão nem cadeado trancado no caminho ao céu
 
 E a hora é boa, e em boa hora, eu saio com as esperanças a vencer
 
-# Final
+## Conclusão
 
 **Ha'esh she'bi ola, ola gavoa**
 
