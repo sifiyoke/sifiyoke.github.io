@@ -116,10 +116,6 @@ O fogo que há em mim ascende, ascende alto
 
 O que será, será
 
-
-
-
+<br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pig_CnUyVtc" frameborder="0" allowfullscreen></iframe>
-
-### [Ver video](https://www.youtube.com/embed/Pig_CnUyVtc)
