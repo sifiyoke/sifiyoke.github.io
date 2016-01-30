@@ -111,4 +111,6 @@ O que será, será
 
 ---
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pig_CnUyVtc" frameborder="0" allowfullscreen></iframe>
+</div>
