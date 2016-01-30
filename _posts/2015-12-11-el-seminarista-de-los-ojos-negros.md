@@ -3,13 +3,13 @@ layout: post
 title: El seminarista de los ojos negros – Miguel Ramos Carrión
 ---
 
-Desde la ventana de un casucho viejo 
-abierta en verano, cerrada en invierno 
-por vidrios verdosos y plomos espesos, 
-una salmantina de rubio cabello 
-y ojos que parecen pedazos de cielo, 
-mientas la costura mezcla con el rezo, 
-ve todas las tardes pasar en silencio 
+Desde la ventana de un casucho viejo  
+abierta en verano, cerrada en invierno  
+por vidrios verdosos y plomos espesos,  
+una salmantina de rubio cabello   
+y ojos que parecen pedazos de cielo,  
+mientas la costura mezcla con el rezo,  
+ve todas las tardes pasar en silencio  
 los seminaristas que van de paseo.
 
 <!--more-->
