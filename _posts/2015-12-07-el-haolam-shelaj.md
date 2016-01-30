@@ -3,10 +3,6 @@ layout: post
 title: El Ha'Olam Shelaj – Rotem Cohen
 ---
 
-[![hey mama - peer tasi](http://img.youtube.com/vi/hC8q4Gab_xM/0.jpg)](http://www.youtube.com/watch?v=hC8q4Gab_xM)
-
-<!--more-->
-
 ### Verso
 **Kamti im gaagua koev ve'jashavti im mi at joleket smajot?**
 
@@ -15,6 +11,8 @@ Me levanté con nostalgia que duele y pensé: ¿con quién compartes alegrías?
 **Jashuv li lishmoa she'at tsojeket harbe ve'ohevet oti od pajot**
 
 Es importante para mí oír que te ríes mucho, y que me quieres aún menos
+
+<!--more-->
 
 **Kamti im gaagua koev ve'hevanti ha'boker she'tov laj levad**
 
@@ -70,6 +68,10 @@ Sí, yo quería tanto contarte que tengo un amigo que me quiere mucho[^fn-yam]
 **Kamti im gaagua koev ve'hevanti ha'boker she'tov laj levad**
 
 Me levanté con nostalgia que duele y entendí esta mañana que estás bien tú sola
+
+<br />
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/hC8q4Gab_xM' frameborder='0' allowfullscreen></iframe></div>
 
 ---
 
