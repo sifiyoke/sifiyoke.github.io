@@ -71,7 +71,7 @@ Me levanté con nostalgia que duele y entendí esta mañana que estás bien tú 
 
 <br />
 
-<div class='embed'><iframe src='http://www.youtube-nocookie.com/embed/hC8q4Gab_xM?showinfo=0' allowfullscreen></iframe></div>
+{% include youtube.html id=hC8q4Gab_xM %}
 
 ---
 
