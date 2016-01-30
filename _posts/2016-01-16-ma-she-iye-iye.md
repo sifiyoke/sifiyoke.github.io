@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ma She'Iye Iye – Hatikva 6
+youtube: Pig_CnUyVtc
 ---
 
 ### Verso
@@ -111,6 +112,4 @@ O que será, será
 
 ---
 
-<div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pig_CnUyVtc" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include yt.html id=page.youtube %}
