@@ -72,7 +72,7 @@ Me levanté con nostalgia que duele y entendí esta mañana que estás bien tú 
 
 <br />
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtube.html id=page.youtubeId %}
 
 ---
 
