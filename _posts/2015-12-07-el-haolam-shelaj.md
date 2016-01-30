@@ -1,7 +1,6 @@
 ---
 layout: post
 title: El Ha'Olam Shelaj – Rotem Cohen
-youtubeId: hC8q4Gab_xM
 ---
 
 ### Verso
@@ -72,7 +71,7 @@ Me levanté con nostalgia que duele y entendí esta mañana que estás bien tú 
 
 <br />
 
-{% include youtube.html id=page.youtubeId %}
+{% include youtube.html "hC8q4Gab_xM" %}
 
 ---
 
