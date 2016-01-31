@@ -11,6 +11,7 @@ description:         'Tudo aqui é para a menina mais linda do mundo'
 url:                 http://sifiyoke.github.io
 baseurl:             '' 
 paginate:            5
+#rss:                 atom.xml
 
 # About/contact
 author:
@@ -26,3 +27,6 @@ excerpt_separator: "<!--more-->"
 
 # Gems
 gems: [jekyll-paginate]
+
+github:
+  repo:           https://github.com/sifiyoke/sifiyoke.github.io

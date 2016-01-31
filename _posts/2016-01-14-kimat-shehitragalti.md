@@ -88,4 +88,6 @@ Justo cuando empecé a entender que los seres humanos no son una criatura de «j
 
 De pronto ocurrió
 
-[![Kimat She'Hitragalti - Rotem Cohen](http://img.youtube.com/vi/QTG7UsGhtLg/0.jpg)](http://www.youtube.com/watch?v=QTG7UsGhtLg)
+---
+
+{% include youtube.html id='QTG7UsGhtLg' %}
