@@ -23,3 +23,6 @@ version:             1.0.0
 
 # Excerpt Separator
 excerpt_separator: "<!--more-->"
+
+# Gems
+gems: [jekyll-paginate]
