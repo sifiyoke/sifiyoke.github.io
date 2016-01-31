@@ -1,7 +1,10 @@
 ---
 layout: post
-title: El seminarista de los ojos negros – Miguel Ramos Carrión
+title: El seminarista de los ojos negros
+author: Miguel Ramos Carrión
 ---
+
+<p class="citation"> por {{ page.author }}</p>
 
 Desde la ventana de un casucho viejo  
 abierta en verano, cerrada en invierno  

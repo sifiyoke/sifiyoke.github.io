@@ -39,3 +39,10 @@
 
 border: 0px;
 }
+
+.citation {
+  font-style: italic;
+  font-size: .9rem;
+  color: gray;
+}
+
