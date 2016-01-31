@@ -10,7 +10,9 @@ tagline:             'a menina mais linda do mundo'
 description:         'Tudo aqui é para a menina mais linda do mundo'
 url:                 http://sifiyoke.github.io
 baseurl:             '' 
-paginate:            5
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 #rss:                 atom.xml
 
 # About/contact
