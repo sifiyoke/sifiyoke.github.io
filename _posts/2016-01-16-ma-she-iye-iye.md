@@ -15,7 +15,7 @@ Respiro profundo até a alma
 
 <!--more-->
 
-*Soguer et ha'pratim ha'ajaronim shel ha'perek*
+*Soguer et ha'pratim ha'akharonim shel ha'perek*
 
 Fecho os últimos detalhes do capítulo
 
@@ -23,7 +23,7 @@ Fecho os últimos detalhes do capítulo
 
 E no meu olho há uma lágrima do sentimento 
 
-*Yesh kol kaj harbe tmunot nitsajon*
+*Yesh kol kakh harbe tmunot nitsakhon*
 
 Há muitas imagens de vitória
 
@@ -39,7 +39,7 @@ O fogo que há em mim ascende, ascende alto
 
 Enquanto todos a meu lado observam
 
-*Veha'shaa tova ube'shaa tova ani yotse im ha'tikvot lenatseaj*
+*Veha'shaa tova ube'shaa tova ani yotse im ha'tikvot lenatseakh*
 
 E a hora é boa, e em boa hora, eu saio com as esperanças a vencer
 
@@ -49,17 +49,17 @@ E a hora é boa, e em boa hora, eu saio com as esperanças a vencer
 
 O que será será, não temos mão nisso. O destino resolverá-se sozinho
 
-*Anajnu kan kedei lijiot im ze ve'im kol ma she'ba ve'yavo*
+*Anakhnu kan kedei likhiot im ze ve'im kol ma she'ba ve'yavo*
 
 Nós estamos aqui para viver com isso, e com todo o que vem e vendrá
 
 ### Verso
 
-*Yesh jalomot she'notnim lanu lehargish karov*
+*Yesh khalomot she'notnim lanu lehargish karov*
 
 Há sonhos que permitem-nos sentir-nos perto
 
-*Ha'tojniyot veha'jaim shelanu makbilim la'rov*
+*Ha'tokhniyot veha'khaim shelanu makbilim la'rov*
 
 Os planos e a nossa vida comparam-se à maioria
 
@@ -67,7 +67,7 @@ Os planos e a nossa vida comparam-se à maioria
 
 O sol secará sempre todo caminho molhado
 
-*Ve'im anan katan yastir gam hu betaj yaazov*
+*Ve'im anan katan yastir gam hu betakh yaazov*
 
 E se uma nuvem pequena obstruísse também ela desaparecerá
 
@@ -75,7 +75,7 @@ E se uma nuvem pequena obstruísse também ela desaparecerá
 
 Sabemos que há alguém que coloca sua mão em tudo
 
-*Ani me'ele she'bojrim lo litmon ta'rosh ba'jol*
+*Ani me'ele she'bokhrim lo litmon ta'rosh ba'khol*
 
 Eu sou um deles que escolhem não esconder a cabeça na areia
 
@@ -83,11 +83,11 @@ Eu sou um deles que escolhem não esconder a cabeça na areia
 
 Porque, além de tudo, e aonde eu não chegue
 
-*Ein shaar ve'manul naul ba'derej la'rakia*
+*Ein shaar ve'manul naul ba'derekh la'rakia*
 
 Não há portão nem cadeado trancado no caminho ao céu
 
-*Veha'shaa tova ube'shaa tova ani yotse im ha'tikvot lenatseaj*
+*Veha'shaa tova ube'shaa tova ani yotse im ha'tikvot lenatseakh*
 
 E a hora é boa, e em boa hora, eu saio com as esperanças a vencer
 
