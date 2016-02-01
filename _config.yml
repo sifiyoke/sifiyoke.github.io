@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Talita Sara
 tagline:             'a menina mais linda do mundo'
 description:         'Tudo aqui é para a menina mais linda do mundo'
-url:                 http://sifiyoke.github.io
+url:                 https://sifiyoke.github.io
 baseurl:             '' 
 gems: [jekyll-paginate]
 paginate: 5
