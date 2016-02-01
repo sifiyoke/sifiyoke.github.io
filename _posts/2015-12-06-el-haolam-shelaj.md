@@ -4,7 +4,8 @@ title: El Ha'Olam Shelaj – Rotem Cohen
 ---
 
 ### Verso
-*Kamti im gaagua koev ve'jashavti im mi at joleket smajot?*
+
+*Kamti im gaagua koev ve'jashavti im mi at joleket smajot*
 
 Me levanté con nostalgia que duele y pensé: ¿con quién compartes alegrías?
 
@@ -23,6 +24,7 @@ Me levanté con nostalgia que duele y entendí esta mañana que estás bien tú 
 Aprendo a dejarte ir a pesar de que es difícil para mí, te dejo ir para siempre
 
 ### Coro
+
 *El ha'olam shelaj elav, ani lo yajol lijov otaj od paam*
 
 A tu mundo, hacia él, no puedo sufrir por ti otra vez
@@ -37,9 +39,10 @@ Y de sus manos a tu mundo, hacia él, no puedo sufrir por ti otra vez
 
 *Az kedai she'tavini ki eineni od aval sholeaj laj rak osher*
 
-Enconces vale la pena que entiendas que ya no estoy más, pero te mando únicamente felicidad 
+Entonces vale la pena que entiendas que ya no estoy más, pero te mando únicamente felicidad
 
 ### Verso
+
 *Kamti im gaagua koev ve'hitpalalti yoter lo lirot et panaij*
 
 Me levanté con nostalgia que duele y recé para no ver más tu cara
@@ -50,7 +53,7 @@ Estoy contento de que tengas alguien que cuida de ti como yo, y que confía solo
 
 *Ken, ani ratsiti kol kaj lesaper laj she'yesh li javer she'ohev oti yam*
 
-Sí, yo quería tanto contarte que tengo un amigo que me quiere mucho[^fn-yam]
+Sí, yo quería tanto contarte que tengo un amigo que me quiere mucho[^yam]
 
 *Hu doeg leharim li et ha'rosh u'masbir li sheha'lev ha'shavur hu mushlam*
 
@@ -68,4 +71,4 @@ Me levanté con nostalgia que duele y entendí esta mañana que estás bien tú 
 
 ---
 
-[^fn-yam]: La palabra *yam* significa literalmente «mar», pero en lenguaje coloquial se utiliza como sinónimo de «mucho». Sería como decir «tengo un amigo que me quiere un mar».
+[^yam]: La palabra *yam* significa literalmente «mar», pero en lenguaje coloquial se utiliza como sinónimo de «mucho». Sería como decir «tengo un amigo que me quiere un mar».
