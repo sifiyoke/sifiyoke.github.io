@@ -6,7 +6,7 @@ title: El jardín de senderos que se bifurcan – Jorge Luis Borges
 *A Victoria Ocampo*
 
 
-En la página 242 de la *Historia de la Guerrra Europea,* de Lidell Hart, se lee que una ofensiva de trece divisiones británicas (apoyadas por mil cuatrocientas piezas de artillería) contra la línea Serre-Montauban había sido planeada para el 24 de julio de 1916 y debió postergarse hasta la mañana del día 29. Las lluvias torrenciales (anota el capitán Lidell Hart) provocaron esa demora —nada significativa, por cierto—. La siguiente declaración, dictada, releída y firmada por el doctor Yu Tsun, antiguo catedrático de inglés en la *Hochschule* de Tsingtao, arroja una insospechada luz sobre el caso. Faltan las dos páginas iniciales.
+En la página 242 de la *Historia de la Guerra Europea,* de Lidell Hart, se lee que una ofensiva de trece divisiones británicas (apoyadas por mil cuatrocientas piezas de artillería) contra la línea Serre-Montauban había sido planeada para el 24 de julio de 1916 y debió postergarse hasta la mañana del día 29. Las lluvias torrenciales (anota el capitán Lidell Hart) provocaron esa demora —nada significativa, por cierto—. La siguiente declaración, dictada, releída y firmada por el doctor Yu Tsun, antiguo catedrático de inglés en la *Hochschule* de Tsingtao, arroja una insospechada luz sobre el caso. Faltan las dos páginas iniciales.
 
 <!--more-->
 
@@ -23,11 +23,17 @@ Por un instante, pensé que Richard Madden había penetrado de algún modo mi de
 Pero del fondo de la íntima casa un farol se acercaba: un farol que rayaban y a ratos anulaban los troncos, un farol de papel, que tenía la forma de los tambores y el color de la luna. Lo traía un hombre alto. No vi su rostro, porque me cegaba la luz. Abrió el portón y dijo lentamente en mi idioma:
 
 —Veo que el piadoso Hsi P'êng se empeña en corregir mi soledad. ¿Usted sin duda querrá ver el jardín?
+
 Reconocí el nombre de uno e nuestros cónsules y repetí desconcertado:
+
 —¿El jardín?
+
 —El jardín de senderos que se bifurcan.
+
 Algo se agitó en mi recuerdo y pronuncié con incomprensible seguridad:
+
 —El jardín e mi antepasado Ts'ui Pên.
+
 —¿Su antepasado? ¿Su ilustre antepasado? Adelante.
 
 El húmedo sendero zigzagueaba como los de mi infancia. Llegamos a una biblioteca de libros orientales y occidentales. Reconocí, encuadernados en seda amarilla, algunos tomos manuscritos de la Enciclopedia Perdida que dirigió el Tercer Emperador e la Dinastía Luminosa y que no se dio nunca a la imprenta. El disco del gramófono giraba junto a un fénix de bronce. Recuerdo también un jarrón de la familia rosa y otro, anterior de muchos siglos, de ese color azul que nuestros antepasados copiaron de los alfareros de Persia…
@@ -39,8 +45,11 @@ Nos sentamos; yo en un largo y bajo diván; él de espaldas a la ventana y a un 
 —Asombroso destino el de Ts'ui Pên —dijo Stephen Albert—. Gobernador de su provincia natal, docto en astronomía, en astrología y en la interpretación infatigable de los libros canónicos, ajedrecista, famoso poeta y calígrafo: todo lo abandonó para componer un libro y un laberinto. Renunció a los placeres de la opresión, de la justicia, del numeroso lecho, de los banquetes y aun de la erudición y se enclaustró durante trece años en el Pabellón de la Límpida Soledad. A su muerte, los herederos no encontraron sino manuscritos caóticos. La familia, como usted acaso no ignora, quiso adjudicarlos al fuego; pero su albacea —un monje taoísta o budista— insistió en la publicación.
 
 —Los de la sangre de Ts'ui Pên —repliqué— seguimos execrando a ese monje. Esa publicación fue insensata. El libro es un acervo indeciso de borradores contradictorios. Lo he examinado alguna vez: en el tercer capítulo muere el héroe, en el cuarto está vivo. En cuanto a la otra empresa de Ts'ui Pên, a su Laberinto..
+
 —Aquí está el Laberinto —dijo indicándome un alto escritorio laqueado.
+
 —¡Un laberinto de marfil! —exclamé—. Un laberinto mínimo…
+
 —Un laberinto de símbolos —corrigió—. Un invisible laberinto de tiempo. A mí, bárbaro inglés, me ha sido deparado revelar ese misterio diáfano. Al cabo de más de cien años, los pormenores son irrecuperables, pero no es difícil conjeturar lo que sucedió. Ts'ui Pên diría una vez: *Me retiro a escribir un libro.* Y otra: *Me retiro a construir un laberinto.* Todos imaginaron dos obras; nadie pensó que libro y laberinto eran un solo objeto. El Pabellón de la Límpida Soledad se erguía en el centro de un jardín tal vez intrincado; el hecho puede haber sugerido a los hombres un laberinto físico. Ts'ui Pên murió; nadie, en las dilatadas tierras que fueron suyas, dio con el laberinto; la confusión de la novela me sugirió que ese era el laberinto. Dos circunstancias me dieron la recta solución del problema. Una: la curiosa leyenda de que Ts'ui Pên se había propuesto un laberinto que fuera estrictamente infinito. Otra: un fragmento de una carta que descubrí.
 
 Albert se levantó. Me dio, por unos instantes, la espalda; abrió un cajón del áureo y renegrido escritorio. Volvió con un papel antes carmesí; ahora rosado y tenue y cuadriculado. Era justo el renombre caligráfico de Ts'ui Pên. Leí con incomprensión y fervor estas palabras que con minucioso pincel redactó un hombre de mi sangre: *Dejo a los varios porvenires (no a todos) mi jardín de senderos que se bifurcan.* Devolví en silencio la hoja. Albert prosiguió:
@@ -56,10 +65,15 @@ Desde ese instante, sentí a mi alrededor y en mi oscuro cuerpo una invisible, i
 Propuse varias soluciones; todas, insuficientes. Las discutimos; al fin, Stephen Albert me dijo:
 
 —En una adivinanza cuyo tema es el ajedrez ¿cuál es la única palabra prohibida?
+
 Reflexioné un momento y repuse:
+
 —La palabra ajedrez.
+
 —Precisamente —dijo Albert—. *El jardín de senderos que se bifurcan* es una enorme adivinanza, o parábola, cuyo tema es el tiempo; esa causa recóndita le prohíbe la mención de su nombre. Omitir *siempre* una palabra, recurrir a metáforas ineptas y a perífrasis evidentes, es quizá el modo más enfático de indicarla. Es el modo tortuoso que prefirió, en cada uno de los meandros de su infatigable novela, el oblicuo Ts'ui Pên. He confrontado centenares de manuscritos, he corregido los errores que la negligencia de los copistas ha introducido, he conjeturado el plan de ese caos, he restablecido, he creído restablecer el orden primordial, he traducido la obra entera: me consta que no emplea una sola vez la palabra *tiempo.* La explicación es obvia: *El jardín de senderos que se bifurcan* es una imagen incompleta, pero no falsa, del universo tal como lo concebía Ts'ui Pên. A diferencia de Newton y de Schopenhauer, su antepasado no creía en un tiempo uniforme, absoluto. Creía en infinitas series de tiempos, en una red creciente y vertiginosa de tiempos divergentes, convergentes y paralelos. Esa trama de tiempos que se aproximan, se bifurcan, se cortan o que secularmente se ignoran, abarca *todas* la posibilidades. No existimos en la mayoría de esos tiempos; en algunos existe usted y no yo; en otros, yo, no usted; en otros, los dos. En este, que un favorable azar me depara, usted ha llegado a mi casa; en otro, usted, al atravesar el jardín, me ha encontrado muerto; en otro, yo digo estas mismas palabras, pero soy un error, un fantasma.
+
 —En todos —articulé no sin un temblor— yo agradezco y venero su recreación del jardín de Ts'ui Pên.
+
 —No en todos —murmuró con una sonrisa—. El tiempo se bifurca perpetuamente hacia innumerables futuros. En uno de ellos soy su enemigo.
 
 Volví a sentir esa pululación de que hablé. Me pareció que el húmedo jardín que rodeaba la casa estaba saturado hasta lo infinito de invisibles personas. Esas personas eran Albert y yo, secretos, atareados y multiformes en otras dimensiones de tiempo. Alcé los ojos y la tenue pesadilla se disipó. En el amarillo y negro jardín había un solo hombre; pero ese hombre era fuerte como una estatua, pero ese hombre avanzaba por el sendero y era el capitán Richard Madden.
