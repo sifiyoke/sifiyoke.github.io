@@ -63,3 +63,22 @@ border: 0px;
 .PageNavigation .next {
   text-align: right;
 }
+
+/* Markdown footnotes
+//
+// See the example content post for an example.*/
+
+/* Footnote number within body text*/
+a[href^="#fn:"],
+/* Back to footnote link*/
+a[href^="#fnref:"] {
+  display: inline-block;
+  margin-left: .1rem;
+  font-weight: bold;
+}
+
+/* List of footnotes*/
+.footnotes {
+  margin-top: 2rem;
+  font-size: 85%;
+}
